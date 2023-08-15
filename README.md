@@ -1,1 +1,5 @@
-# cs-370-current-emerging-trends
+# CS-370 Current & Emerging Trends
+
+This project had a Pirate game where the player/A.I. has to reach the treasure by going through a grid of obstacles. We were given a set of code that set up the game and game rules for the intelligent agent. We had to develop our own intelligent agent in this project by applying the knowledge we learned throughout the course. 
+
+Computer scientists apply their knowledge and expertise in various forms of computation and algorithmic applications. Computer scientists make the modern solutions needed to run our world in a more effective, clean, and useful way. I approach these problems by viewing the problem from the user perspective. The best solutions are those designed in a mindset of needs and requirements, not abstract wishes and theory. My ethical responsibility stems from this mindset as well, where I make solutions based on what would make a user comfortable. The end user should always be able to customize their privacy on any application, up to the point of what is absolutely necessary for the app/solution to work. Then, reasonable awareness should be established for what data or control is needed to make the solution work.
